@@ -1,0 +1,72 @@
+{
+    "settings": {
+        "huntandbattle": "true",
+        "banbypass": "true",
+        "discordrpc": "true",
+        "pray": "true",
+        "curse": "true",
+        "autoquest": "true",
+        "extratoken": "false",
+        "inventory": {
+            "inventorycheck": "true",
+            "gemcheck": "true",
+            "lootboxcheck": "true",
+            "fabledlootboxcheck": "true",
+            "cratecheck": "true",
+            "eventcheck": "true"
+        },
+        "animals": {
+            "enable": "true",
+            "type": "sacrifice",
+            "animaltype": {
+                "common": "true",
+                "uncommon": "true",
+                "rare": "true",
+                "epic": "false",
+                "mythical": "false",
+                "patreon": "false",
+                "cpatreon": "false",
+                "legendary": "false",
+                "gem": "false",
+                "bot": "false",
+                "distorted": "false",
+                "fabled": "false",
+                "special": "false",
+                "hidden": "false"
+            }
+        },
+        "upgradeautohunt": {
+            "enable": "true",
+            "type": "Efficiency"
+        },
+        "gamble": {
+            "coinflip": {
+                "default_amount": 100,
+                "max_amount": 150000,
+                "multipler": 3,
+                "enable": "true", 
+                "amount": "100"
+            },
+            "slots": {
+                "enable": "true",
+                "amount": "1000"
+            }
+        }
+    },
+    "main": {
+        "token": "MTE4OTgzNTYwMDIyOTA1MjQ3Nw.GZ-9Ku.6I_xHXtAHrB6lNkrWR-9DzWsRNLJqn_e1ukjHE",
+        "userid": "1189835600229052477",
+        "channelid": "751436729512099930",
+        "owodmchannelid": "1189837312952119326",
+        "gamblechannelid":"1189803812165263391",
+        "autoquestchannelid": "1189803688877899787"
+    },
+    "extra": {
+        "token": "",
+        "userid": "",
+        "channelid": "",
+        "owodmchannelid": "",
+        "gamblechannelid":"",
+        "autoquestchannelid": ""
+    }
+}
